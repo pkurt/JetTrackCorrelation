@@ -1,1 +1,0 @@
-rfio:////castor/cern.ch/user/p/pkurt/dijet/dijet120_20k.root 

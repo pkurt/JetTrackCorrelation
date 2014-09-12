@@ -1,1 +1,0 @@
-/mnt/hadoop/cms/store/user/yinglu/MC_Production/Dijet120/HiForest_Tree/dijet120_25k.root 

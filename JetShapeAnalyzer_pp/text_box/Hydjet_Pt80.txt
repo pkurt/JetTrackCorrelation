@@ -1,2 +1,0 @@
-/net/hidsk0001/d00/scratch/pkurt/my_ntuple/Hydjet80_mini_ntuple_final_p0.root
-/net/hidsk0001/d00/scratch/pkurt/my_ntuple/Hydjet80_mini_ntuple_final_p1.root

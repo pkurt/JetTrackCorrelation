@@ -1,1 +1,0 @@
-rfio://///castor/cern.ch/user/v/vzhukova/forest/montecarlo/v25_1/mergedFile50.root

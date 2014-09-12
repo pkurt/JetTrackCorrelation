@@ -1,0 +1,2 @@
+/afs/cern.ch/work/p/pkurt/private/datasets/new_reco_minintuples/pp_mc/Pythia80_ak3CaloJets_mini_ntuple_v1_p0.root
+/afs/cern.ch/work/p/pkurt/private/datasets/new_reco_minintuples/pp_mc/Pythia80_ak3CaloJets_mini_ntuple_v1_p1.root

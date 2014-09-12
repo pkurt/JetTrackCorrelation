@@ -1,0 +1,6 @@
+/afs/cern.ch/work/p/pkurt/private/datasets/minintuples/hydjet/Hydjet100_mini_ntuple_final_test_gen_p0.root
+/afs/cern.ch/work/p/pkurt/private/datasets/minintuples/hydjet/Hydjet100_mini_ntuple_final_test_gen_p1.root
+/afs/cern.ch/work/p/pkurt/private/datasets/minintuples/hydjet/Hydjet100_mini_ntuple_final_test_gen_p2.root
+/afs/cern.ch/work/p/pkurt/private/datasets/minintuples/hydjet/Hydjet100_mini_ntuple_final_test_gen_p3.root
+/afs/cern.ch/work/p/pkurt/private/datasets/minintuples/hydjet/Hydjet100_mini_ntuple_final_test_gen_p4.root
+/afs/cern.ch/work/p/pkurt/private/datasets/minintuples/hydjet/Hydjet100_mini_ntuple_final_test_gen_p5.root

@@ -1,0 +1,1 @@
+/afs/cern.ch/work/p/pkurt/private/datasets/minintuples/hydjet/Hydjet250_mini_ntuple_final_test_gen_p0.root

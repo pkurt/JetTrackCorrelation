@@ -1,0 +1,293 @@
+Running with trkPtCut 1
+GetFilesOf
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Warning in <TProfile::Sumw2>: Sum of squares of weights structure already created
+Got hist class for foi 0
+Open file Data2011.txt to extract files to run over
+Opened Data2011.txt for reading
+0: /net/hidsk0001/d00/scratch/pkurt/my_ntuple/PbPb_data_new_ntuple_p0.root
+1: /net/hidsk0001/d00/scratch/pkurt/my_ntuple/PbPb_data_new_ntuple_p1.root
+2: /net/hidsk0001/d00/scratch/pkurt/my_ntuple/PbPb_data_new_ntuple_p2.root
+3: /net/hidsk0001/d00/scratch/pkurt/my_ntuple/PbPb_data_new_ntuple_p3.root
+4: /net/hidsk0001/d00/scratch/pkurt/my_ntuple/PbPb_data_new_ntuple_p4.root
+5: /net/hidsk0001/d00/scratch/pkurt/my_ntuple/PbPb_data_new_ntuple_p5.root
+6: /net/hidsk0001/d00/scratch/pkurt/my_ntuple/PbPb_data_new_ntuple_p6.root
+7: 
+I am working
+file it, file_name: /net/hidsk0001/d00/scratch/pkurt/my_ntuple/PbPb_data_new_ntuple_p0.root, number 0 of 7
+Got CT
+ I am running on file 0 of 7, evi: 0 of 99999
+j4i: 0, pt: 115.814
+WHY IS JET pT=0 : 115.814
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.91503
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.19473
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.12995
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.3658
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.08531
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.04863
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.21697
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.58525
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.16753
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.47782
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.8328
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.49873
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.07756
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.48929
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.04357
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.41339
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.0718
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.72985
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.26091
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.77067
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.01419
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.61178
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.70468
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.10987
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.06494
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.35557
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.16435
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.57918
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.00037
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.18785
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.52442
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.72281
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.35563
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.52711
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.79404
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.86545
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.5718
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.00983
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.28032
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.18463
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.08103
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.42134
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.06392
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.00321
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.99898
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.13765
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.04175
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.0907
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.55003
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.24937
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.15281
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.1864
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.26636
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.58437
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.12551
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.53811
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.19886
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.49033
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.04465
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.52279
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.05736
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.49711
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.71716
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.39882
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.09367
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.13577
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.98594
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.34531
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.37326
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.02168
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.97388
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.24987
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.35687
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.84433
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.04476
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.75259
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.56067
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.3268
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.44484
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.15957
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.47537
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.64689
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.12917
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.52234
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.1504
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.17584
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.46099
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.03046
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.02693
+my_primary->jtpt->at(j4i): 115.814, trkPt: 15.8133
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.61669
+my_primary->jtpt->at(j4i): 115.814, trkPt: 57.2325
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.43094
+my_primary->jtpt->at(j4i): 115.814, trkPt: 3.18585
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.0115
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.64704
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.02501
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.54633
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.60292
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.13948
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.06755
+my_primary->jtpt->at(j4i): 115.814, trkPt: 3.00847
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.32394
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.33353
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.00992
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.05907
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.56135
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.12266
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.54219
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.30106
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.34581
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.72298
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.04616
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.278
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.60389
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.37663
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.13595
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.72962
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.70582
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.30009
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.57802
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.07304
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.34189
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.36437
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.38873
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.43929
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.65387
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.38513
+my_primary->jtpt->at(j4i): 115.814, trkPt: 3.93376
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.025
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.05021
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.10799
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.68731
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.75354
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.56899
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.26895
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.81217
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.03175
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.21357
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.6186
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.30938
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.43303
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.76069
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.17403
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.08616
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.79886
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.2327
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.53886
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.22231
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.10478
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.41143
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.34797
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.3667
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.03578
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.24848
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.18282
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.2866
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.24877
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.59652
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.07529
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.2991terminate called after throwing an instance of 'std::out_of_range'
+  what():  vector::_M_range_check
+2
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.1457
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.16873
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.20375
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.31299
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.06992
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.65335
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.05343
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.06497
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.24214
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.14785
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.12255
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.30683
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.61272
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.10757
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.33463
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.83267
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.33579
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.96322
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.29813
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.08151
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.05154
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.83921
+my_primary->jtpt->at(j4i): 115.814, trkPt: 3.83839
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.60225
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.55412
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.65207
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.5004
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.56211
+my_primary->jtpt->at(j4i): 115.814, trkPt: 7.86997
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.64546
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.07084
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.14125
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.86155
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.12089
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.12101
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.32183
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.28305
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.08125
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.81424
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.48847
+my_primary->jtpt->at(j4i): 115.814, trkPt: 4.09045
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.25054
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.06821
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.0184
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.47354
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.68239
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.15427
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.3343
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.03574
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.89719
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.14928
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.16646
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.22173
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.54767
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.0079
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.25826
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.04702
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.07794
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.32962
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.87816
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.3184
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.00159
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.08525
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.17222
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.02834
+my_primary->jtpt->at(j4i): 115.814, trkPt: 3.46599
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.44196
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.88324
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.38718
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.09476
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.80653
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.33857
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.77453
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.87086
+my_primary->jtpt->at(j4i): 115.814, trkPt: 1.925
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.38409
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.98151
+my_primary->jtpt->at(j4i): 115.814, trkPt: 2.84331
+my_primary->jtpt->at(j4i): 115.814, trkPt: 4.55352

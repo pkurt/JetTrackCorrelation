@@ -1,0 +1,1 @@
+/afs/cern.ch/work/p/pkurt/private/datasets/new_reco_minintuples/pbpb_mc/Hydjet50_mini_ntuple_v1_TRIGFIXED_p0.root

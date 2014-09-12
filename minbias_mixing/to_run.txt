@@ -1,0 +1,2 @@
+ ./JetShapeAnalyzer_ionmixing.out 4 1 4 (4 corresponds the fileno in the text file)
+

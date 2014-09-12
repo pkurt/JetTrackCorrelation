@@ -1,0 +1,7 @@
+/afs/cern.ch/work/p/pkurt/private/datasets/new_reco_minintuples/pbpb_mc/Hydjet80_mini_ntuple_v1_TRIGFIXED_p0.root
+/afs/cern.ch/work/p/pkurt/private/datasets/new_reco_minintuples/pbpb_mc/Hydjet80_mini_ntuple_v1_TRIGFIXED_p1.root
+/afs/cern.ch/work/p/pkurt/private/datasets/new_reco_minintuples/pbpb_mc/Hydjet80_mini_ntuple_v1_TRIGFIXED_p2.root
+/afs/cern.ch/work/p/pkurt/private/datasets/new_reco_minintuples/pbpb_mc/Hydjet80_mini_ntuple_v1_TRIGFIXED_p3.root
+/afs/cern.ch/work/p/pkurt/private/datasets/new_reco_minintuples/pbpb_mc/Hydjet80_mini_ntuple_v1_TRIGFIXED_p4.root
+/afs/cern.ch/work/p/pkurt/private/datasets/new_reco_minintuples/pbpb_mc/Hydjet80_mini_ntuple_v1_TRIGFIXED_p5.root
+

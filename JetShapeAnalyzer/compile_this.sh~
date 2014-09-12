@@ -1,0 +1,11 @@
+
+
+#g++ -m64 -Wall -I$ROOTSYS/include -L$ROOTSYS/lib -lTree -ldl -lPhysics -lGpad -lHtml -lMinuit class_def/JetAna.C my_test.C -o my_test.out
+#/usr/bin/g++ -m64 -Wall -I$ROOTSYS/include -L$ROOTSYS/lib -lHist -lMatrix -lGraf -lCore -lTree -ldl -lPhysics -lGpad -lHtml -lMinuit class_def/JetAna.C my_test.C -o my_test.out
+
+
+#g++ -Wall -I$ROOTSYS/include -L$ROOTSYS/lib `root-config --libs --glibs` class_def/mixing_tree.C JetShapeAnalyzer_ion.C -o JetShapeAnalyzer_ion.out
+g++ -Wall -I$ROOTSYS/include -L$ROOTSYS/lib `root-config --libs --glibs` class_def/mixing_tree.C JetShapeAnalyzer_ion_aj.C -o JetShapeAnalyzer_ion_aj.out
+
+
+

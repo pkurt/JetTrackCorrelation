@@ -2363,7 +2363,7 @@ void StudyFiles(std::vector<TString> file_names, std::vector<TString> MB_file_na
 {
 
   //////////###### PTHAT SAMPLES ###########///////////////
-  TFile * wtfile_vtx_mc;
+  ///TFile * wtfile_vtx_mc;
 
   int pthat =0;
   int pthatmax =0;
@@ -2371,27 +2371,23 @@ void StudyFiles(std::vector<TString> file_names, std::vector<TString> MB_file_na
   if( dataset_type_code == e_HydJet50 ) {
     pthat = 50;
     pthatmax=80;
-    wtfile_vtx_mc = TFile::Open("hydjet50_vertex_cent.root", "readonly");
 
   }
   if( dataset_type_code == e_HydJet80 ) {
     pthat = 80;
     //    pthatmax=100;
     pthatmax=120;
-    wtfile_vtx_mc = TFile::Open("hydjet80_vertex_cent.root", "readonly");
 
   }
   if( dataset_type_code == e_HydJet100 ) {
     pthat = 100;
     pthatmax=120;
-    wtfile_vtx_mc = TFile::Open("hydjet100_vertex_cent.root", "readonly");
 
   }
   if( dataset_type_code == e_HydJet120 ) {
     pthat = 120;
     //pthatmax=170;
     pthatmax=300;
-    wtfile_vtx_mc = TFile::Open("hydjet120_vertex_cent.root", "readonly");
 
   }
   if( dataset_type_code == e_HydJet170 ) {
@@ -2431,7 +2427,7 @@ void StudyFiles(std::vector<TString> file_names, std::vector<TString> MB_file_na
 
   // wtfile_vtx->Close();
 
-  //  TFile * wtfile_vtx_mc = TFile::Open("hydjet50_vertex_cent.root", "readonly");
+  TFile * wtfile_vtx_mc = TFile::Open("HydjetMerged_vertex_cent.root", "readonly");
   hWeight_MC_vtx = (TH1F*) ((TH1F*)wtfile_vtx_mc->Get("hists_track_vz"))->Clone("hists_track_vz_clone");
   hWeight_MC_cent = (TH1F*) ((TH1F*)wtfile_vtx_mc->Get("hists_Centrality"))->Clone("hists_centrality_clone");
 
@@ -2552,7 +2548,7 @@ void StudyFiles(std::vector<TString> file_names, std::vector<TString> MB_file_na
        */
 
 
-      if(fabs(vertex > 15.)) continue;
+      if(fabs(vertex) > 15.) continue;
       double wvz=1;
       double wcen=1;
 
@@ -2588,7 +2584,7 @@ void StudyFiles(std::vector<TString> file_names, std::vector<TString> MB_file_na
       bool n_matched_duplicates = 0;
       int n_MB_resets = 0;
      if (evi%1000==0) std::cout << "event " << evi << "  passes selection" << std::endl;
-      while(n_MBevs_found < 20  && n_MB_resets < 10 ) {     
+      while(n_MBevs_found < 40  && n_MB_resets < 10 ) {     
         mb_evi++;
         if( mb_evi >= n_MB_evt ) {     ///// reset
           mb_evi = 1; 
@@ -2611,16 +2607,13 @@ void StudyFiles(std::vector<TString> file_names, std::vector<TString> MB_file_na
           Float_t vertex_data = my_primary->vz->at(0);
           Float_t vertex_minbias= my_primary_MB->vz->at(0);
 
-          if( fabs(vertex_data - vertex_minbias) > 5.0 ) continue;
-          //   if( fabs(vertex_data - vertex_minbias) > 2.0 ) continue;
+          if( fabs(vertex_data - vertex_minbias) > 1.0 ) continue;
 
           float minbias_cent = my_primary_MB->hiBin;  
           float jet_cent = my_primary->hiBin;
 
           //// 2.centrality matching
-//          if( fabs(jet_cent-minbias_cent) / jet_cent > 0.25 ) continue;
             if( fabs(jet_cent-minbias_cent) / jet_cent > 0.1 ) continue;
-          //   std::cout << "passed centrality requirement"; 
 
           //// 3.event-plane matching
           // if( fabs(my_primary_MB->hiEvtPlanes - my_primary->hiEvtPlanes) > 0.25 ) continue;
@@ -2883,6 +2876,10 @@ void StudyFiles(std::vector<TString> file_names, std::vector<TString> MB_file_na
               if(gen_pt<trkPtCut)continue ;
 
               if(TMath::Abs(gen_eta)>2.4)continue ;
+
+              for(int trkpti = 0; trkpti < nTrkPtBins; trkpti++) {
+                if (gen_pt >=TrkPtBins[trkpti] && gen_pt < TrkPtBins[trkpti+1])  ibin3 = trkpti ;
+              } /// trkpti loop
 
               double deta_gen = my_primary->jteta->at(j4i) - gen_eta;
               double dphi_gen = my_primary->jtphi->at(j4i) - gen_phi;

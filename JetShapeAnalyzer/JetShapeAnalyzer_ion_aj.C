@@ -2828,28 +2828,20 @@ void StudyFiles(std::vector<TString> file_names, int foi, hist_class *my_hists)
   if( dataset_type_code == e_HydJet50 ) {
     pthat = 50;
     pthatmax=80;
-    wtfile_vtx_mc = TFile::Open("hydjet50_vertex_cent.root", "readonly");
-
   }
   if( dataset_type_code == e_HydJet80 ) {
     pthat = 80;
     //pthatmax=100;
     pthatmax=120;
-    wtfile_vtx_mc = TFile::Open("hydjet80_vertex_cent.root", "readonly");
-
   }
   if( dataset_type_code == e_HydJet100 ) {
     pthat = 100;
     pthatmax=120;
-    wtfile_vtx_mc = TFile::Open("hydjet100_vertex_cent.root", "readonly");
-
   }
   if( dataset_type_code == e_HydJet120 ) {
     pthat = 120;
     //pthatmax=170;
     pthatmax=300;
-    wtfile_vtx_mc = TFile::Open("hydjet120_vertex_cent.root", "readonly");
-
   }
   if( dataset_type_code == e_HydJet170 ) {
     pthat = 170;
@@ -2888,7 +2880,7 @@ void StudyFiles(std::vector<TString> file_names, int foi, hist_class *my_hists)
 
     // wtfile_vtx->Close();
 
-    //  TFile * wtfile_vtx_mc = TFile::Open("hydjet50_vertex_cent.root", "readonly");
+    TFile * wtfile_vtx_mc = TFile::Open("HydjetMerged_vertex_cent.root", "readonly");
     hWeight_MC_vtx = (TH1F*) ((TH1F*)wtfile_vtx_mc->Get("hists_track_vz"))->Clone("hists_track_vz_clone");
     hWeight_MC_cent = (TH1F*) ((TH1F*)wtfile_vtx_mc->Get("hists_Centrality"))->Clone("hists_centrality_clone");
 
